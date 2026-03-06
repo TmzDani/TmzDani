@@ -1,0 +1,26 @@
+Criado para imitar a percepção humana
+
+machine learning 
+- aprendizado supervisionado (métricas) dev monitora os dados que são processados 
+- aprendizado não supervisionado (similaridade)
+- Por reforço - tipo o chat gpt tb
+
+IA Generativa
+- Aprendizado profundo
+- geração de texto, imagem, código...
+- detecta padrão
+- junção entre aprendizado supervisionado e não supervisionado
+- probabilidade
+
+
+KNN - busca de similaridade
+Por reforço é tipo o duolingo
+Texto de turing
+
+
+
+inteligencia aritifical ganhou esse nome em 96 - McCarthy - fez um programa de xadrez computadorizado que acabou sendo autonomo
+ELIZA - primeiro chatbot do mundo - Joseph Weizenbaun - servia como terapia
+dado estruturado - ex arquivo excel
+dado semi estruturado - json
+dado não estruturado - video, imagem e audio
