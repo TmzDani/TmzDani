@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TmzDani
 - 👀 I’m interested in CyberSecurity
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I do pole dance!
 
 <!---
 TmzDani/TmzDani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
