@@ -1,6 +1,7 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,020101,120306,020101&height=220&section=header&text=Tmz%20Dani&fontSize=50&fontColor=ffffff&fontAlignY=36&desc=INFORMATION%20SYSTEMS%20%7C%20CYBERSECURITY%20%7C%20NETWORKS&descSize=13&descColor=8a4b56&descAlignY=60&animation=fadeIn&stroke=0&v=1" width="100%" alt="Tmz Dani — Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving2&color=3b121e&height=220&section=header&text=Tmz%20Dani&fontFamily=Montserrat&fontSize=48&fontColor=ffffff&fontAlignY=35&desc=INFORMATION%20SYSTEMS%20%7C%20CYBERSECURITY%20%7C%20NETWORKS&descSize=13&descColor=eab2bc&descAlignY=58" width="100%" alt="Tmz Dani — Banner" />
 </div>
+
 
 Name : Danielli
 Education : Information Systems student 
