@@ -1,8 +1,5 @@
-
-
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0b090a,3b101b,641e2e&height=180&section=header&text=Tmz%20Dani&fontSize=48&fontColor=e8dfe2&fontAlignY=38&desc=Knowledge%20is%20a%20form%20of%20magic.&descAlignY=60&descSize=14" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,020101,120306,020101&height=220&section=header&text=Tmz%20Dani&fontSize=50&fontColor=ffffff&fontAlignY=36&desc=INFORMATION%20SYSTEMS%20%7C%20CYBERSECURITY%20%7C%20NETWORKS&descSize=13&descColor=8a4b56&descAlignY=60&animation=fadeIn&stroke=0&v=1" width="100%" alt="Tmz Dani — Banner" />
 </div>
 
 Name : Danielli
