@@ -6,14 +6,17 @@
   <b>Education:</b> Information Systems student<br/>
   <b>Occupation:</b> IT Support<br/>
   <b>Interests:</b> Cybersecurity | Networks | Systems 
+  <b>Certification / Course:</b> Fortinet Certified Fundamentals (FCF) / Network Security
+        <br/><br/>
 
 I'm an Information Systems student currently working in IT Support, building my technical foundation through hands-on experience, academic studies, and independent learning.
 
-<p>
-    <img src="https://img.shields.io/badge/Pursuing-Information%20Systems-3b121e?style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/Focus-Cybersecurity%20%26%20Networks-3b121e?style=for-the-badge&logoColor=white" />
-  </p>
 
+<p>
+  <img src="https://img.shields.io/badge/Pursuing-Information%20Systems-3b121e?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-Cybersecurity%20%26%20Networks-3b121e?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Training-Fortinet%20Network%20Security-3b121e?style=for-the-badge&logoColor=white" />
+</p>
 
 <div align="center">
 
